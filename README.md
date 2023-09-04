@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jaggerv
-- 👀 I’m interested in Game Dev
+- 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Python, C#, JavaScript, Django, MongoDB, PostgreSQL
-- 💞️ I’m looking to collaborate on Game projects as writer, programmer or arts
 - 📫 How to reach me: javiervleon99@gmail.com
 
 <!---
