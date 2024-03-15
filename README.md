@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaggerv
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Python, C#, JavaScript, Django, MongoDB, PostgreSQL
+- 🌱 I’m currently learning Python, JavaScript, Django, React, MongoDB and PostgreSQL
 - 📫 How to reach me: javiervleon99@gmail.com
 
 <!---
