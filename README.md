@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @jaggerv
-- 🎓 I’m a Computer Engineering student, almost finishing my university studies
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Python, JavaScript, Django, React, MongoDB and PostgreSQL
+<h2 align="center">👋 Hi, I'm Javier</h2>
+
+- 📍 I'm from Chile 🆑
+- 🎓 I’m in my last year of Computer Engineering degree
+- 👀 I’m interested in Software Engineering  
+- 🌱 I'm currently learning TypeScript
 - 📫 How to reach me: javiervleon99@gmail.com
 
 <!---
